@@ -1,9 +1,10 @@
 (("name" . "match")
 ("version" . "0.1.0")
-("description" . "A portable hygienic pattern matcher")
+("description" . "A pattern matcher")
 ("keywords")
 ("author" 
-    ("Alex Shinn"))
+    ("Dan Friedman" "Erik Hilsdale" "Kent Dybvig" ))
+("doc" . "http://www.cs.indiana.edu/chezscheme/match/")
 ("private" . #f)
 ("scripts" 
     ("run" . "scheme --script"))
